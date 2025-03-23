@@ -1,4 +1,4 @@
-# data-drivenlab
+# data-driven lab
 Welcome to my portfolio! 
 I’m a senior digital marketing/business performance professional fascinated with data-driven discoveries to improve business and life.
 
