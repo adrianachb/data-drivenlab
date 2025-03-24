@@ -1,7 +1,5 @@
-remote_theme: pages-themes/architect@v0.2.0
-
-title: [Adriana's data-driven lab]
-description: [BI, data,analytics,and more]
-
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+title: Architect theme
+description: Adriana's data-driven lab.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
